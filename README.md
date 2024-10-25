@@ -18,11 +18,9 @@ The following deliverables are required to be submitted to complete the coding C
 For Hackathon prompts, we encourage you to participate as a team (team of atleast 3 members).
 ## Challenge
 We will be providing two hackathon prompts with the proposed judging criteria as a part of Qiskit Fall Fest'24. There is a beginner-friendly prompt as well as intermediate-advanced prompt.
-* The submission deadline for the beginner-friendly hackathon prompt will be 10/28/2024 11 59 PM and for the advanced prompt will be 10/30/2024
+* The submission deadline for the beginner-friendly hackathon prompt will be 10/28/2024 (11 59 PM) and for the advanced prompt will be 10/30/2024 (11 59 PM)
 * There will be a winning team and runner up team. 
-* Winners will be awarded certificates and IBM swags
-* The team announced as winners for the intermediate-advanced prompt will get a gift card worth 150$ .
-
+* Winners will be awarded certificates and IBM swags.
 ## Deliverables
 The following deliverables are required to be submitted to complete the Hackathon Challenge. All submission should be under one zip folder (named after the team) pushed to [submissions](Hackathon-challenge/submissions/)
 * A written pdf report addressing all the requirements in the judging criteria-- additionally the challenges faced for the hackathon
