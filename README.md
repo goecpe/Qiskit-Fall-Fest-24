@@ -5,7 +5,7 @@ This is a repository for ISU IBM Qiskit Fall Event 2024 - brought by GO-ECpE and
 ## Challenges
 There are 3 autograded notebooks available in [challenges](Coding-challenge/challenges/). All participants are encouraged to complete all 3 notebooks.
 * The first 5 participants to finish all 3 notebooks succesfully in the shortest time will be winners.
-* The deadline for submission of coding challenges will end 24 hrs after the time of announcement. Time will be announced clearly after the logistics are completed.
+* The deadline for submission of coding challenges will end 48 hrs after the time of announcement. Time will be announced clearly after the logistics are completed.
 * Winners will be awarded certificates and IBM swags. Participants completing atleast 2 notebooks will get participation certificate.
 
 ## Deliverables
