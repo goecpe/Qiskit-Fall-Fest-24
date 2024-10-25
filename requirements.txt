@@ -1,1 +1,7 @@
-
+qiskit
+qiskit_aer
+qiskit_ibm_runtime
+matplotlib
+pylatexenc
+qiskit_addon_cutting
+git+https://github.com/qiskit-community/Quantum-Challenge-Grader.git
