@@ -24,5 +24,7 @@ We will be providing two hackathon prompts with the proposed judging criteria as
 * The team announced as winners for the intermediate-advanced prompt will get a gift card worth 150$ .
 
 ## Deliverables
-The following deliverables are required to be submitted to complete the Hackathon Challenge. All submission should be under a folder (named after the team) pushed to [submissions](Hackathon-challenge/submissions/)
-
+The following deliverables are required to be submitted to complete the Hackathon Challenge. All submission should be under one zip folder (named after the team) pushed to [submissions](Hackathon-challenge/submissions/)
+* A written pdf report addressing all the requirements in the judging criteria-- additionally the challenges faced for the hackathon
+* All source files created to solve the hackathon challenge
+* Any additional references and materials used
