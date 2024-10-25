@@ -1,5 +1,5 @@
 # Qiskit_Fall_Fest-24
-This is a repository for ISU IBM Qiskit Fall Event 2024 - brought by GO-ECpE and Jason Saroni
+This is a repository for ISU IBM Qiskit Fall Event 2024 - brought by GO-ECpE and Jason Saroni.
 
 # Coding Challenge
 ## Challenges
@@ -23,6 +23,6 @@ We will be providing two hackathon prompts with the proposed judging criteria as
 * Winners will be awarded certificates and IBM swags.
 ## Deliverables
 The following deliverables are required to be submitted to complete the Hackathon Challenge. All submission should be under one zip folder (named after the team) pushed to [submissions](Hackathon-challenge/submissions/)
-* A written pdf report addressing all the requirements in the judging criteria-- additionally the challenges faced for the hackathon
-* All source files created to solve the hackathon challenge
-* Any additional references and materials used
+* A written pdf report addressing all the requirements in the judging criteria-- additionally the challenges faced for the hackathon.
+* All source files created to solve the hackathon challenge.
+* Any additional references and materials used.
