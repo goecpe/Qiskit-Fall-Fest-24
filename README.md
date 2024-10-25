@@ -11,7 +11,7 @@ There are 3 autograded notebooks available in [challenges](Coding-challenge/chal
 ## Deliverables
 The following deliverables are required to be submitted to complete the coding Challenge. All submission should be under a folder (named after participant) pushed to [submissions](Coding-challenge/submissions/) 
 * The completed source file (Jupyter notebook).
-* A pdf of the notebook with a brief summary (4-5 lines max) of what you learnt from the notebook.
+* A pdf of the notebook with a brief summary (4-5 lines max) of what you learnt from the notebooks.
 
 
 # Hackathon Prompts
