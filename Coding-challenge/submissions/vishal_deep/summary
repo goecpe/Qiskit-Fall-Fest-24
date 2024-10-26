@@ -1,0 +1,10 @@
+1. Coding challenge 1 taught four step workflow for quantum computers:
+    a. Map circuits and operators
+    b. Optimize the circuit
+    c. Execute the circuit
+    d. Post-process the results
+    This challenge also show how two qubits can be entangled with each other using a two-qubit bell state circuit.
+
+2. In the first part of challenge 2, we learned how to use Qiskit sampler which returns the probability distribution of Qubit states using a bell state circuit. Then we moved to a 3 Qubits W-state circuit. The results shows that all three states probabilities are equally distributed. In the part II of this challenge, we used a  Variational Quantum Eigensolver (VQE) algorithm. For this first we setup a 3-qubit TwoLocal cicuit and then used pass managers to tranpile to ISA cicuits. Finally, a cost function was implemented that returns estimate of energy from estimator and then compared the results with backend AerSimulator.
+
+3. Third challenge goes in depth of transpile and various optimization levels. First, it talks about six stages of compilation flows. Then it talks about the passmanagers and staged pass managers. Then it moves on to the affect of different optimization levels on cicuit depth, gate counts and scores. Then it discusses routing, layout, and translation stages.
